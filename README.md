@@ -1,4 +1,4 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=shark&color=0:7A5DC7,100:FF69B4&height=140&text=Welcome%20to%20My%20GitHub%21)
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=0:FFB6C1,100:B57EDC&height=150&text=Welcome%20to%20My%20GitHub%21&fontColor=white&fontSize=40)
 
 
 
