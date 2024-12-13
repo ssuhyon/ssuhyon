@@ -1,3 +1,5 @@
+![Capsule Render](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=white)
+
 ## Hi there 👋
 
 <!--
