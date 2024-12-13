@@ -1,4 +1,5 @@
-![Capsule Render](https://capsule-render.vercel.app/api?type=soft&color=0:7A5DC7,100:FF69B4&text=Good%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![Capsule Render](https://capsule-render.vercel.app/api?type=shark&color=0:7A5DC7,100:FF69B4&height=140&text=Welcome%20to%20My%20GitHub%21)
+
 
 
 ## Hi there 👋
